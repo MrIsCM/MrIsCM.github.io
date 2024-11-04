@@ -1,5 +1,5 @@
-url: https://mriscm.github.io
-baseurl: /home/
+# url: https://mriscm.github.io
+# baseurl: 
 
 # Site settings
 title: Sharp Analytics
@@ -9,7 +9,7 @@ description: "MrIsCM's website: Blog, porfolio and contact. Machine Learning, Da
 
 # Team names, titles and social links
 people:
-- name: Ismael Charpentier
+- name: MrIsCM
   pic: 1
   position: Data Scientis / Python Programmer
   social:
@@ -19,23 +19,27 @@ people:
       url: https://github.com/MrIsCM
     - title: linkedin
       url: https://www.linkedin.com/in/ismaelcharpentier/
+    - title: kaggle
+      url: https://www.kaggle.com/MrIsCm
 
-# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#   - title: twitter
-#     url: http://twitter.com/jekyllrb
-#   - title: facebook
-#     url:
-#   - title: stack-overflow
-#     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket 
-#     url: http://bitbucket.org/jekyll
-#   - title: github
-#     url: http://github.com/jekyll
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://x.com/SharpAnalytic
+  - title: github
+    url: https://github.com/MrIsCM
+  - title: linkedin
+    url: https://www.linkedin.com/in/ismaelcharpentier/
+  - title: kaggle
+    url: https://www.kaggle.com/MrIsCm
+  - title: envelope
+    url: mailto:Sharp1Analytics@gmail.com
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Andalucia, Spain
+  - line: Granada
+  - line: Spain
 
 # Build settings
 markdown: kramdown
